@@ -25,4 +25,4 @@ Whether you're a beginner just starting out or someone revising for interviews o
 - Working with Text Data
 - Advanced Pandas Tips & Tricks
 - Real-world Use Cases and Projects
-- and more etc...
+- and more etc.
