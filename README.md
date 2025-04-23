@@ -13,7 +13,7 @@ Whether you're a beginner just starting out or someone revising for interviews o
 
 ## 📚 Topics Covered
 
-- Introduction to Pandas
+- Introduction to Pandas 🐼
 - Pandas Series and DataFrames
 - Reading & Writing Data (CSV, Excel, more.)
 - Data Cleaning & Handling Missing Values
