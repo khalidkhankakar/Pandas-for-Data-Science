@@ -8,7 +8,7 @@ Whether you're a beginner just starting out or someone revising for interviews o
 - ✅ Rich with hands-on examples  
 - ✅ Well-documented and easy to follow  
 - ✅ A valuable resource for learners and professionals alike 
-- ✔ more etc... 
+- more etc... 
 
 ---
 
