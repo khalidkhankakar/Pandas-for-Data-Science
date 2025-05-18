@@ -16,6 +16,7 @@ Whether you're a beginner just starting out or someone revising for interviews o
 
 - Introduction to Pandas 🐼
 - Pandas Series and DataFrames
+- Checking the data structure
 - Reading & Writing Data (CSV, Excel, more etc...)
 - Data Cleaning & Handling Missing Values
 - Filtering, Sorting & Indexing
